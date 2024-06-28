@@ -1,0 +1,2 @@
+ball_tracker:green_ball_detector
+-DCATKIN_DEVEL_PREFIX=/home/vim/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vim/catkin_ws/install -G Unix Makefiles
